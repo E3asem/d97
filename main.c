@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define stack 0
+#define stack 1
 #define queue 0
 
 #if stack == 1
