@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define stack 1
-#define queue 0
+#define stack 0
+#define queue 1
 
 #if stack == 1
 #include "stack.h"

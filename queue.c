@@ -5,7 +5,7 @@
 
 #include "queue.h"
 
-#define max 5
+#define max 8
 
 int queue[max]; 
 int front=-1,rear=-1;
